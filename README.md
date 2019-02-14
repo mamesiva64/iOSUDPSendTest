@@ -3,10 +3,10 @@
 
 
 ## 参考
-UDPを使う linux 
+UDPを使う linux  
 http://www.geekpage.jp/programming/linux-network/udp.php
 
-UDPを使う windows
+UDPを使う windows  
 http://www.geekpage.jp/programming/winsock/udp.php
 
 UnityでUDPを受信してみる  
